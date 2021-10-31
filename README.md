@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @TLii from Finland, the birthplace of the great cell phone brand!
+- 👋 Hi, I’m @TLii from Finland! I'm a lawyer by trade and currently studying cyber security at the University of Jyväskylä.
 - 👀 I’m interested in cyber security, FOSS business models and projects with real life applications for SMEs.
-- 🌱 I’m currently learning MEAN stack.
+- 🌱 I’m currently learning C# (thanks to JYU) and improving my JS/TS.
 - 💞️ I’m actively developing a few private projects.
-- 📫 Check my website at tuomas.fun.
+- 📫 Check my website at [tuomas.fun](https://tuomas.fun).
 
 
     -----BEGIN GEEK CODE BLOCK-----

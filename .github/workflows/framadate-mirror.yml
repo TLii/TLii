@@ -1,0 +1,25 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Framadate mirror
+
+on:
+  # Mirror every midnight
+  schedule:
+    - cron: "0 0 * * *"
+    
+  workflow_dispatch:
+
+jobs:
+  mirror:
+    name: Mirror official git repository to github
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v1
+      - name: git-sync
+        uses: wei/git-sync@v3
+        with:
+          source_repo: "https://framagit.org/framasoft/framadate/framadate"
+          source_branch: "refs/remotes/source/*"
+          destination_repo: "TLii/framadate-mirror"
+          destination_branch: "refs/heads/*"

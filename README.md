@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TLii from Finland! I'm a lawyer by trade and currently studying cyber security at the University of Jyväskylä.
 - 👀 I’m interested in cyber security, FOSS business models and projects with real life applications for SMEs.
-- 🌱 I’m currently learning C# (thanks to JYU) and improving my JS/TS.
+- 🌱 I’m currently learning php8 and improving my JS/TS.
 - 💞️ I’m actively developing a few private projects.
 - 📫 Check my website at [tuomas.fun](https://tuomas.fun).
 

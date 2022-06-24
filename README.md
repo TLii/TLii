@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @TLii from Finland! I'm a lawyer by trade and currently studying cyber security at the University of Jyväskylä.
+- 👋 Hi, I’m @TLii from Finland! I'm a geek by night, and on evenings also studying cyber security at the University of Jyväskylä.
+- 👔 Professionally I'm a [lawyer](https://www.legalwise.fi) and an [entrepreneur](https://pilvity.fi).
 - 👀 I’m interested in cyber security, FOSS business models and projects with real life applications for SMEs.
 - 🌱 I’m currently learning php8 and improving my JS/TS.
 - 💞️ I’m actively developing a few private projects.
 - 📫 Check my website at [tuomas.fun](https://tuomas.fun).
-
+- ☕ [Buy me a coffee!](https://www.buymeacoffee.com/tlii).
 
     -----BEGIN GEEK CODE BLOCK-----
     

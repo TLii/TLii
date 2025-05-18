@@ -1,7 +1,14 @@
 # Hi!👋 
+
 ## Basics
-I'm a lawyer by day, geek by night and a full-time ND.
+
+- 🇫🇮
+- 👨‍🏫 + ⚖️ > 👮
+- 🧑‍🔬 < 🪖 + ⚖️
+- 👨‍🎓 < 💻🕸
+
 ## Interests
+
 Some keywords: 
 - Debian
 - K8s
@@ -12,9 +19,12 @@ Some keywords:
 - VBA
 - M
 - FOSS
-- CI/CD 
+- CI/CD
+- AI
+ 
 ## Contact
-Check my [fun](https://tuomas.fun) and [academic](https://tuomas.prof) websites.
+
+Check my [fun](https://tuomas.fun) and [academic](https://tuomas.prof) websites, if they happen to work.
  
 ☕ [Buy me a coffee!](https://www.buymeacoffee.com/tlii).
 
